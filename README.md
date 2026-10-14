@@ -17,8 +17,9 @@ Automatizo atendimento, qualificação de leads e processos operacionais em pequ
 | atendimento-whatsapp-n8n | Leads perdidos fora do horário comercial | n8n, WhatsApp API, LLM |
 | agente-cadastro-clinica | Cadastro manual de pacientes e resultados de exame | n8n, LLM, Google Sheets |
 | lp-pedidos-confeitaria | Pedidos dispersos em vários canais | HTML, CSS, JS |
+| lp-odontologia-estetica | Agendamento dependente de conversa prévia | HTML, CSS, JS, schema.org |
 
-Projetos entregues a clientes reais. Nomes e dados foram removidos: os repositórios trazem versões sanitizadas, com dados de exemplo.
+Projetos entregues a clientes reais. As versões publicadas aqui são de demonstração: marcas, contatos, textos e imagens foram substituídos por dados fictícios, preservando a arquitetura e o código.
 
 ## Stack
 
